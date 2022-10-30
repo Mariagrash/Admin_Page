@@ -31,7 +31,7 @@
 			</tr>
 			<tr> 
 				<td>Confirm Password</td>
-				<td><input type="text" name="comfirmpassword"></td>
+				<td><input type="text" name="confirmpassword"></td>
 			</tr>
 			<tr> 
 				<td>User Type</td>

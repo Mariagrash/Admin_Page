@@ -77,7 +77,7 @@ while($user_data = mysqli_fetch_array($result))
 			</tr>
 			<tr> 
 				<td>User Type</td>
-				<td><input type="text" name="usertype" value=<?php echo $user_type;?>></td>
+				<td><input type="text" name="user_type" value=<?php echo $user_type;?>></td>
 			</tr>
 			<tr>
 				<td><input type="hidden" name="id" value=<?php echo $_GET['id'];?>></td>
